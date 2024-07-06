@@ -1,0 +1,22 @@
+.c-shell {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background: var(--grey-1);
+  padding: var(--space-3);
+}
+
+.c-shell-inner {
+  width: 1024px;
+  max-width: calc(100vw - var(--space-3) * 2);
+  height: 600px;
+  max-height: calc(100vh - var(--space-3) * 2);
+  margin: auto;
+  padding: var(--space-3);
+
+  @media screen and (min-width: 1025px) {
+  }
+}

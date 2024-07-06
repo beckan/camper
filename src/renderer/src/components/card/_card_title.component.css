@@ -1,0 +1,8 @@
+.c-card-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 1.6rem;
+  font-weight: 100;
+  color: var(--gray-11);
+}

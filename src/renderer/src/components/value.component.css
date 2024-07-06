@@ -1,0 +1,14 @@
+.c-value {
+  display: flex;
+  align-items: baseline;
+}
+.c-value-data {
+  font-size: 8rem;
+  margin-right: 0.5rem;
+  line-height: 1;
+  font-weight: 600;
+}
+.c-value-meta {
+  font-size: 3rem;
+  font-weight: 100;
+}

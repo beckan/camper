@@ -1,0 +1,7 @@
+.c-surface {
+  border-radius: var(--radius-5);
+  background: var(--gray-1);
+  box-shadow: var(--shadow-4);
+  padding: var(--space-5);
+  width: 100%;
+}
